@@ -1,0 +1,3 @@
+id: "20200706021652.68479753"
+project-name: openliberty
+stack: docker.io/kabanero/java-openliberty:0.2
