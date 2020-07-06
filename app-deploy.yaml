@@ -50,6 +50,7 @@ metadata:
     stack.appsody.dev/id: java-openliberty
     stack.appsody.dev/version: 0.2.3
   name: openliberty
+  namespace: kabanero
 spec:
   applicationImage: dev.local/openliberty
   createKnativeService: false
