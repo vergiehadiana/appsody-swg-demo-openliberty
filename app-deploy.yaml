@@ -52,6 +52,7 @@ metadata:
   name: openliberty
   namespace: kabanero
 spec:
+  createKnativeService: true
   applicationImage: dev.local/openliberty
   createKnativeService: false
   expose: true
